@@ -1,3 +1,3 @@
 # demo
-Demo repo. for git and github.
+Demo repo. for git and github
 
