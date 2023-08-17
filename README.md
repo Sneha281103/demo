@@ -5,4 +5,4 @@ Demo repo. for git and github
 shardha khapra
 
 # student
-Sneha sarda
+Sneha sarda.
